@@ -1,0 +1,53 @@
+*{
+    text-align: center;
+    background-color: lightgray;
+}
+h1{
+    color:  rgb(4, 4, 78);
+    font-family: serif;
+    font-size: 40px;
+    text-shadow: 5px 5px 10px yellow;
+    text-decoration: underline;
+}
+form{
+    margin: 20px 220px;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 1px 10px 25px rgb(16, 46, 46) ;
+}
+fieldset{
+    border: 3px solid rgb(4, 4, 78);
+    border-radius: 5px;
+    margin: 15px;
+}
+input,textarea{
+    border: 1.5px solid  rgb(4, 4, 78);
+    border-radius: 3px;
+    padding: 10px;
+    width: 230px;
+}
+legend{
+    font-weight: bold;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5px;
+    padding: 5px;
+}
+label{
+    text-decoration: underline;
+    font-family:sans-serif;
+    
+}
+button:active{
+    background-color:gray;
+}
+button:hover{
+    background-color: darkcyan;
+}
+button{
+    padding:5px;
+    margin: 10px;
+    border: 3px solid rgb(4, 4, 78);
+    border-radius:8px ;
+    font-weight: bold;
+    background-color: rgb(157, 153, 153);
+}
