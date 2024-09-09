@@ -1,2 +1,3 @@
-# milestone2
-Milestone2 Static Resume Builder 
+Milestone-2
+
+Build a static resume using HTML & CSS.
